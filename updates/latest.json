@@ -1,7 +1,7 @@
 {
-  "version": "1.8.3",
-  "file": "Nexus-1.8.3.nexusupdate",
-  "size": 834963,
-  "notes": "Stronger code protection: more of the app's code is now scrambled.",
-  "date": "2026-11-13T20:40:30.990Z"
+  "version": "1.9.0",
+  "file": "Nexus-1.9.0.nexusupdate",
+  "size": 845650,
+  "notes": "Full access mode: pick it in a chat and Claude or Codex will never stop to ask (Nexus still blocks dangerous commands and protected folders). Quiet steps: the chat shows one live line of what the AI is doing plus its to-do list; click to see every step. Faster first replies, smoother streaming, and a much simpler Settings page with search and hidden advanced options.",
+  "date": "2026-11-13T23:20:34.915Z"
 }
