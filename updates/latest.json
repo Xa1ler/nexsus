@@ -1,7 +1,7 @@
 {
-  "version": "2.0.1",
-  "file": "Nexus-2.0.1.nexusupdate",
-  "size": 1077143,
-  "notes": "Full quality by default: only caveman talk and the project vault stay on. Helper agents now use the same model as the main agent, team reviewers are no longer downgraded, and long chats are not squashed. Every new chat reads the project vault first. Also fixes 'Never' for squashing long chats.",
-  "date": "2026-11-14T11:08:03.085Z"
+  "version": "2.0.2",
+  "file": "Nexus-2.0.2.nexusupdate",
+  "size": 1081926,
+  "notes": "Start fresh: a button at the top of every chat writes a short handoff, saves it to the project vault and continues in a new, lighter chat. Nexus also offers this by itself when a chat gets long (120k tokens per message, change it in Settings > Save tokens).",
+  "date": "2026-11-14T11:22:41.882Z"
 }
