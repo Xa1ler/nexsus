@@ -1,7 +1,7 @@
 {
-  "version": "2.1.0",
-  "file": "Nexus-2.1.0.nexusupdate",
-  "size": 1097790,
-  "notes": "Natural voice for the orb: a free AI voice (Kokoro) that runs on your PC. Nexus downloads it once in the background (about 155 MB) and switches to it by itself; until then the Windows voice is used. Pick from 28 voices and test them in Settings > Assistant. Also fixes messages sent from the phone page not reaching the chat.",
-  "date": "2026-11-14T11:35:31.281Z"
+  "version": "2.1.1",
+  "file": "Nexus-2.1.1.nexusupdate",
+  "size": 1096998,
+  "notes": "The orb now looks at your screen itself when you ask about it (\"what am I looking at?\", \"what's wrong here?\"), even with the eye off, instead of handing it to an agent chat.",
+  "date": "2026-11-14T12:11:49.280Z"
 }
