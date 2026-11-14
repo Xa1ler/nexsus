@@ -1,7 +1,7 @@
 {
-  "version": "2.0.0",
-  "file": "Nexus-2.0.0.nexusupdate",
-  "size": 1078275,
-  "notes": "Nexus 2.0: the orb can see your screen (turn on the eye), a screenshot hotkey (Ctrl+Alt+S), a task queue for overnight work, phone approvals over your Wi-Fi (scan a QR code), one-click Undo task, Save to vault on any answer, Ctrl+K search that jumps to the message, new Roblox games from a template, Gemini as a third AI, and \"Hey Nexus\" voice wake-up.",
-  "date": "2026-11-14T10:53:46.816Z"
+  "version": "2.0.1",
+  "file": "Nexus-2.0.1.nexusupdate",
+  "size": 1077143,
+  "notes": "Full quality by default: only caveman talk and the project vault stay on. Helper agents now use the same model as the main agent, team reviewers are no longer downgraded, and long chats are not squashed. Every new chat reads the project vault first. Also fixes 'Never' for squashing long chats.",
+  "date": "2026-11-14T11:08:03.085Z"
 }
