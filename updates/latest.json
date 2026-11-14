@@ -1,7 +1,7 @@
 {
-  "version": "2.1.1",
-  "file": "Nexus-2.1.1.nexusupdate",
-  "size": 1096998,
-  "notes": "The orb now looks at your screen itself when you ask about it (\"what am I looking at?\", \"what's wrong here?\"), even with the eye off, instead of handing it to an agent chat.",
-  "date": "2026-11-14T12:11:49.280Z"
+  "version": "2.1.2",
+  "file": "Nexus-2.1.2.nexusupdate",
+  "size": 1097150,
+  "notes": "Fix: the desktop orb was invisible on some PCs since 2.0. It shows again; it now just fades out for a moment while a screenshot is taken.",
+  "date": "2026-11-14T12:17:39.501Z"
 }
