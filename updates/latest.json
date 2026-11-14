@@ -1,7 +1,7 @@
 {
-  "version": "1.9.1",
-  "file": "Nexus-1.9.1.nexusupdate",
-  "size": 988865,
-  "notes": "New app icon: the copper hexagon orb from the desktop assistant, now on the taskbar, tray, notifications and inside the app.",
-  "date": "2026-11-14T08:58:32.002Z"
+  "version": "2.0.0",
+  "file": "Nexus-2.0.0.nexusupdate",
+  "size": 1078275,
+  "notes": "Nexus 2.0: the orb can see your screen (turn on the eye), a screenshot hotkey (Ctrl+Alt+S), a task queue for overnight work, phone approvals over your Wi-Fi (scan a QR code), one-click Undo task, Save to vault on any answer, Ctrl+K search that jumps to the message, new Roblox games from a template, Gemini as a third AI, and \"Hey Nexus\" voice wake-up.",
+  "date": "2026-11-14T10:53:46.816Z"
 }
