@@ -1,7 +1,7 @@
 {
-  "version": "2.1.2",
-  "file": "Nexus-2.1.2.nexusupdate",
-  "size": 1097150,
-  "notes": "Fix: the desktop orb was invisible on some PCs since 2.0. It shows again; it now just fades out for a moment while a screenshot is taken.",
-  "date": "2026-11-14T12:17:39.501Z"
+  "version": "2.1.3",
+  "file": "Nexus-2.1.3.nexusupdate",
+  "size": 1097821,
+  "notes": "No more 'pick a folder first': chats without a project folder now work in Documents\\Nexus Workspace automatically. You can still pick any folder per project or chat, or change the default in Settings > Projects & tools.",
+  "date": "2026-11-14T13:56:46.452Z"
 }
