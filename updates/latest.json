@@ -1,7 +1,7 @@
 {
-  "version": "2.0.2",
-  "file": "Nexus-2.0.2.nexusupdate",
-  "size": 1081926,
-  "notes": "Start fresh: a button at the top of every chat writes a short handoff, saves it to the project vault and continues in a new, lighter chat. Nexus also offers this by itself when a chat gets long (120k tokens per message, change it in Settings > Save tokens).",
-  "date": "2026-11-14T11:22:41.882Z"
+  "version": "2.1.0",
+  "file": "Nexus-2.1.0.nexusupdate",
+  "size": 1097790,
+  "notes": "Natural voice for the orb: a free AI voice (Kokoro) that runs on your PC. Nexus downloads it once in the background (about 155 MB) and switches to it by itself; until then the Windows voice is used. Pick from 28 voices and test them in Settings > Assistant. Also fixes messages sent from the phone page not reaching the chat.",
+  "date": "2026-11-14T11:35:31.281Z"
 }
