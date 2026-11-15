@@ -1,7 +1,7 @@
 {
-  "version": "2.1.4",
-  "file": "Nexus-2.1.4.nexusupdate",
-  "size": 1094648,
-  "notes": "Fix: in team chats the attach, schedule and send buttons stuck out of the message box. Everything stays inside now; long model names shorten with … (hover to see the full name).",
-  "date": "2026-11-14T14:02:40.610Z"
+  "version": "2.1.5",
+  "file": "Nexus-2.1.5.nexusupdate",
+  "size": 1096716,
+  "notes": "Phone page: no more getting locked out after refreshing (the browser's icon request was counted as a wrong code), no zoom-in when typing on iPhone, a clearer reply box with 'Sent ✓' and a close button, bigger Reply buttons. App: the chat header, message box and example cards now fit on small windows and with the Details panel open.",
+  "date": "2026-11-15T12:33:27.667Z"
 }
