@@ -1,7 +1,7 @@
 {
-  "version": "2.2.0",
-  "file": "Nexus-2.2.0.nexusupdate",
-  "size": 1116710,
-  "notes": "Nexus 2.2.0: a new online voice for the orb\n\n- The orb now talks with Microsoft's free online neural voices. No limit, no account, nothing to download, and it doesn't use your PC's power.\n- New default voice: Ryan, a calm British assistant voice. Pick from 16 English voices and a tone (Normal, Deeper, Quicker) in Settings > Assistant > Online voice.\n- If the online voice can't be reached (no internet), the orb uses the offline PC voice, then the Windows voice, so it never goes silent.\n- The offline PC voice (Kokoro) now only downloads when you choose it.",
-  "date": "2026-11-15T20:37:23.630Z"
+  "version": "2.3.0",
+  "file": "Nexus-2.3.0.nexusupdate",
+  "size": 1120418,
+  "notes": "Nexus 2.3.0: talk to the orb without opening anything\n\n- Mini chat under the orb: type in the small \"Ask Nexus\" bar or press its mic. The answer pops up in a bubble above the orb and is read out loud, and the big panel stays closed. Click the bubble to open the full chat.\n- Say \"Nexus\" anywhere: \"Nexus, open Blender\", \"what should I work on next, Nexus\" and it just does it. Saying only \"Nexus\" starts listening. Turn it on in Settings > Assistant > Say \"Nexus\". It runs offline with Windows speech, and the orb ignores its own voice.\n- The empty space around the orb is click-through, so it never blocks what's behind it.\n- The orb's bar shows what's going on: waiting permissions, agents working, thinking, speaking.",
+  "date": "2026-11-15T20:56:38.341Z"
 }
