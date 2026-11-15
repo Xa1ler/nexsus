@@ -1,7 +1,7 @@
 {
-  "version": "2.1.5",
-  "file": "Nexus-2.1.5.nexusupdate",
-  "size": 1096716,
-  "notes": "Phone page: no more getting locked out after refreshing (the browser's icon request was counted as a wrong code), no zoom-in when typing on iPhone, a clearer reply box with 'Sent ✓' and a close button, bigger Reply buttons. App: the chat header, message box and example cards now fit on small windows and with the Details panel open.",
-  "date": "2026-11-15T12:33:27.667Z"
+  "version": "2.2.0",
+  "file": "Nexus-2.2.0.nexusupdate",
+  "size": 1116710,
+  "notes": "Nexus 2.2.0: a new online voice for the orb\n\n- The orb now talks with Microsoft's free online neural voices. No limit, no account, nothing to download, and it doesn't use your PC's power.\n- New default voice: Ryan, a calm British assistant voice. Pick from 16 English voices and a tone (Normal, Deeper, Quicker) in Settings > Assistant > Online voice.\n- If the online voice can't be reached (no internet), the orb uses the offline PC voice, then the Windows voice, so it never goes silent.\n- The offline PC voice (Kokoro) now only downloads when you choose it.",
+  "date": "2026-11-15T20:37:23.630Z"
 }
