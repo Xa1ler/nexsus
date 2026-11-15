@@ -1,7 +1,7 @@
 {
-  "version": "2.3.1",
-  "file": "Nexus-2.3.1.nexusupdate",
-  "size": 1120080,
-  "notes": "Nexus 2.3.1: the orb gets George, plus an optional Microsoft voice\n\n- New default orb voice: George, a calm British man. It's free, has no limit and works offline on your PC. Nexus downloads it once by itself (about 155 MB); until then the orb uses the Windows voice.\n- Optional: Microsoft's cloud voices (Ryan and 13 more) with your own free Microsoft Azure key, which gives 0.5 million characters a month for free. Paste it in Settings > Assistant > Microsoft Azure key and press Save & test.\n- If Azure can't be reached or the free amount runs out, the orb switches to George, then the Windows voice.\n- Removed the 2.2 online voice: Microsoft locked it, which is why you heard the old Windows voice.",
-  "date": "2026-11-15T21:20:03.777Z"
+  "version": "2.3.2",
+  "file": "Nexus-2.3.2.nexusupdate",
+  "size": 1125186,
+  "notes": "Nexus 2.3.2: Race mode fixes\n\n- Race remembers now: every message you send continues the same race with the same two AIs, instead of starting a brand-new race with AIs that forgot your task. A new race starts only after you apply a result or discard both.\n- ChatGPT (Codex) can use Roblox Studio and other connected tools: its requests now come to your Permissions inbox (or are allowed automatically with Full access). Before, Nexus silently said no, which is why it said \"Studio blocked\".\n- Each AI is told it's in a race, that its folder is its own copy, and that Roblox Studio is shared: it only changes the place you gave it, and asks once if you didn't say.",
+  "date": "2026-11-15T21:45:13.427Z"
 }
